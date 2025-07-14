@@ -1,13 +1,20 @@
 ## 👋 Hi there! I'm Lahcen El Omari
 
 🎓 AI & Software Engineering Student at FPO - Ouarzazate, Morocco  
-💡 Passionate about Machine Learning, Data Science, and Arduino Projects  
-📹 I create educational content on AI concepts, tools, and news — in a simple, visual way  
-🔧 Currently exploring predictive models, data analysis, and real-world intelligent systems
+💡 Passionate about Machine Learning, Data Science, and Smart Arduino Projects  
+📹 I create simplified and visual content on AI tools, concepts, and trends — in Arabic  
+🔧 Currently working on predictive models, data analysis, and hardware/software integration
 
-📌 Follow my AI content:
-- 🎥 YouTube: [@elhassan-elomari](https://www.youtube.com/@elhassan-elomari)
-- 📸 Instagram: [@elekt_ai](https://www.instagram.com/elekt_ai/)
+📌 Follow my content and journey:
+<a href="https://www.linkedin.com/in/elhassan-elomari-3b0074268">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@elhassan-elomari">
+  <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/elekt_ai/">
+  <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 ---
 
@@ -41,4 +48,3 @@
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=el7-assan.el7-assan)
-
