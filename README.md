@@ -2,8 +2,8 @@
 
 🎓 AI & Software Engineering Student at FPO - Ouarzazate, Morocco  
 💡 Passionate about Machine Learning, Data Science, and Smart Arduino Projects  
-📹 I create simplified and visual content on AI tools, concepts, and trends — in Arabic  
-🔧 Currently working on predictive models, data analysis, and hardware/software integration
+📹 I create simplified and visual content on AI tools, concepts, news, and trends — in Arabic  
+🔧 Currently working on predictive models, data analysis, and real-world intelligent systems
 
 📌 Follow my content and journey:
 <a href="https://www.linkedin.com/in/elhassan-elomari-3b0074268">
@@ -15,6 +15,16 @@
 <a href="https://www.instagram.com/elekt_ai/">
   <img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+---
+
+### 🤖 AI Content Creator  
+
+📡 I simplify **AI concepts** in a language everyone understands.  
+📰 I share **the latest updates, tools, and news** from the AI world.  
+🎬 I publish short tutorials and insights for learners and tech enthusiasts.  
+
+![My Brand Logo](./rrrrrrrr.png)
 
 ---
 
