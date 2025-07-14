@@ -24,7 +24,7 @@
 📰 I share **the latest updates, tools, and news** from the AI world.  
 🎬 I publish short tutorials and insights for learners and tech enthusiasts.  
 
-![My Brand Logo](./rrrrrrrr.png)
+![My Brand Logo](./logo.png.png)
 
 ---
 
