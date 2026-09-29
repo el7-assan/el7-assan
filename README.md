@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Lahcen El Omari
+## 👋 Hi there! I'm EL OMARI LAHCEN
 
 🎓 AI & Software Engineering Graduate | Machine Learning & Data Science
 💡 Passionate about Machine Learning, Deep Learning, Data Science, Computer Vision, and Intelligent Systems
