@@ -52,8 +52,6 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=el7-assan&show_icons=true&count_private=true&theme=gruvbox" />
-
 <a href="https://github.com/el7-assan">
   <img src="https://streak-stats.demolab.com/?user=el7-assan&theme=gruvbox&hide_border=true" />
 </a>
